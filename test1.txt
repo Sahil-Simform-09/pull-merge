@@ -1,1 +1,2 @@
 learn how pull command works.
+wrote in test1 file
